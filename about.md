@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-아직 작성중입니다 ^^;  
-[이력 구경](/)
+[이력 구경](/) 작성중
 
-sns  
+SNS  
 [facebook](https://www.facebook.com/shinseunghee0923)
-[github](https://github.com/SeungheeShin)
+[github](https://github.com/shshinbyhcg)
