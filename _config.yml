@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   shshin's Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-facebook_username: shinseunghee0923
-github_username:  SeungheeShin
+# facebook_username: shinseunghee0923
+# github_username:  SeungheeShin
 
 # Build settings
 markdown: kramdown
